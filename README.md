@@ -1,6 +1,6 @@
 # Text-to-Image Generator
 
-A Next.js application that generates images from text descriptions using AI.
+An AI-powered text-to-image application that transforms natural language prompts into generated images. The app provides a simple, responsive interface for creating images in real time and downloading the results.
 
 ## Features
 
@@ -41,10 +41,20 @@ If the images are not generating, it likely means that the API credits have been
 
 ## Tech Stack
 
-- Next.js 14
-- TypeScript
-- Tailwind CSS
-- fal.ai API for image generation
+Framework: Next.js 14
+Language: TypeScript
+Frontend: React 18
+Styling: Tailwind CSS
+AI Image Generation: fal.ai
+AI SDK: Vercel AI SDK
+AI Integrations: OpenAI, Anthropic, Replicate
+Voice/Audio: Deepgram
+Backend Services: Firebase
+Animations: Framer Motion
+Icons: Lucide React
+Markdown: React Markdown
+Date Utilities: date-fns
+Deployment: Next.js-compatible hosting
 
 ## License
 
